@@ -1,1 +1,9 @@
+# MATLAB temporary files
 *.asv
+*.m~
+*.mex*
+*.mat
+
+# OS specific files
+.DS_Store
+Thumbs.db
